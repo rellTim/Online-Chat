@@ -10,7 +10,7 @@
 
 ## :red_circle: Как использовать :red_circle:
 
-1. Откройте фаил [file.log](https://github.com/rellTim/Online-Chat/blob/main/settings.txt)
+1. Откройте фаил [settings.txt](https://github.com/rellTim/Online-Chat/blob/main/settings.txt)
 2. В строке `port` введите PORT на вашем устройстве.
 3. В строке `host` введите "localhost".
    
