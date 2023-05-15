@@ -96,7 +96,9 @@ public class Server {
             }
             removeClient(this);
             broadcast(name + " вышел из чата.", this);
-            logWriter.close();
+            if (clients.isEmpty()){
+                logWriter.close();
+            }
         }
 
 
